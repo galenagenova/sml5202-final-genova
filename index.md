@@ -10,6 +10,20 @@
  With fruit the vines that round the thatch-eaves run;
 </p>
 <hr>
-<h2>Lists
+<h2>Lists</h2>
+<p> Things I like </p> 
+ <ul>
+ <li>dogs</li>
+ <li>poems</li>
+ <li>winter</li>
+ </ul>
+ 
+ <p> Three things to do: </p>
+ 
+ <ol>
+ <li>dogs</li>
+ <li>poems</li>
+ <li>winter</li>
+ </ol>
  
  <p>Hello, what does this look like?</p>
