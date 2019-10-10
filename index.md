@@ -4,11 +4,8 @@
 <hr>
 <h2>Ode to Autumn</h2>
 <p>
- SEASON of mists and mellow fruitfulness,
- Close bosom-friend of the maturing sun;
- Conspiring with him how to load and bless
+ SEASON of mists and mellow fruitfulness,<br>
+ Close bosom-friend of the maturing sun;<br>
+ Conspiring with him how to load and bless<br>
  With fruit the vines that round the thatch-eaves run;
-
-  
-  
 </p>
