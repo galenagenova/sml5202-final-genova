@@ -4,10 +4,10 @@
 <hr>
 <h2>Things I have to do:</h2>
  <ul>
- <li>Do my homework<li/> 
- <li>Shower<li/>
- <li>Go to bed<li/> 
- <ul/>
+ <li>Do my homework</li> 
+ <li>Shower</li>
+ <li>Go to bed</li> 
+ </ul>
 
 <hr>
 <h2>My three favourite things:</h2>
