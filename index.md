@@ -7,7 +7,8 @@
  <ul>
   <li>Do my homework<li/>
   <li>Shower<li/>
-  <li>Go to bed<li/>
+  <li>Go to bed<li/> 
+  <ul/>
 </p>
 <hr>
 <h2>My three favourite things:</h2>
