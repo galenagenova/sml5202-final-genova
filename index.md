@@ -1,31 +1,19 @@
 <h1> Hello! </h1>
-<h2> Introduction </h2>
-<p>This is my first paragraph </p>
+<h2> About me </h2>
+<p> I am from Plovdiv, Bulgaria and I have spent the past five years in Englnd. I moved to London three years ago in order to get a bachelor degree. I study Russian with Business Management and this is my final third year. </p>
 <hr>
-<h2>Ode to Autumn</h2>
+<h2>Things I have to do:</h2>
 <p>
- SEASON of mists and mellow fruitfulness,<br>
- Close bosom-friend of the maturing sun;<br>
- Conspiring with him how to load and bless<br>
- With fruit the vines that round the thatch-eaves run;
+ <ul>
+  <li>Do my homework<li/>
+  <li>Shower<li/>
+  <li>Go to bed<li/>
 </p>
 <hr>
-<h2>Lists</h2>
-<p> Things I like </p> 
- <ul>
- <li>dogs</li>
- <li>poems</li>
- <li>winter</li>
- </ul>
- 
- <p> Three things to do: </p>
- 
+<h2>My three favourite things:</h2>
  <ol>
+ <li>snow</li>
  <li>dogs</li>
- <li>poems</li>
- <li>winter</li>
+ <li>reading</li>
  </ol>
  
- <p>Hello, what does this look like?</p>
-<hr>
-<a href="https://www.facebook.com/">Visit Facebook</a>
