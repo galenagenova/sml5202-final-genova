@@ -1,5 +1,5 @@
 <h1> HTML Part 2 Homework </h1>
-<p> 15<sup>th</sup> October 2019 </p>
+15<sup>th</sup> October 2019
 <hr>
 <img src="https://images.classic-collection.co.uk/content/DataObjects/ProductAttributeGroup/Image/image_13_v15.jpg" >
 <hr>
