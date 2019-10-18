@@ -18,8 +18,6 @@
  </ol>
  <hr>
  <h2> Links to my homework:</h2>
-  <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3 </a>
-  <p>
- <a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week4 </a>
-<p><a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week5 </a>
+  <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3 </a>/
+ <a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week4 </a>/<a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week5 </a>
  
