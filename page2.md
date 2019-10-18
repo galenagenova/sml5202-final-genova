@@ -25,7 +25,7 @@
    
   <a href="https://galenagenova.github.io/SML5202-galena/">Home page </a>
   <p>
-  Homework:<a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week4 </a>, <a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week 5. 
+  Homework: <a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week4 </a>, <a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week 5. 
     
   
   
