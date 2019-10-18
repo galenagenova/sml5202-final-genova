@@ -22,9 +22,8 @@
   <br> 
   <h1 lang="ru"> Спасибо! </h1>
   
-    <br>
-    
-    <a href "https://galenagenova.github.io/SML5202-galena/">Home Page </a>
+   
+  <a href="https://galenagenova.github.io/SML5202-galena/">Home Page </a>
     
   
   
