@@ -23,7 +23,9 @@
   <h1 lang="ru"> Спасибо! </h1>
   
    
-  <a href="https://galenagenova.github.io/SML5202-galena/">Home Page </a>
+  <a href="https://galenagenova.github.io/SML5202-galena/">Home page </a>
+  <p>
+  Homework:<a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week4 </a>, <a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week 5. 
     
   
   
