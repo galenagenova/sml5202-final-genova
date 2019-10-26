@@ -5,12 +5,15 @@ href="https://www.goclimbing.co.uk/wp-content/uploads/2017/08/climbing-introduct
 src="https://www.goclimbing.co.uk/wp-content/uploads/2017/08/climbing-introduction-get-started-1000x500.jpg" style="width:70%; margin-left:20%"> 
 </a>
 <p>
- <em> Sarita Aditya Verma Nov 2018 </em>
+ 
 <h2>
  <span
 style="color: #555555;"> Colours
        </span>
 </h2>
+
+<em> Sarita Aditya Verma Nov 2018 </em>
+<br>
 Is it just a hue
   <br>
 Or
