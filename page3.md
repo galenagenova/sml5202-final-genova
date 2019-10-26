@@ -5,7 +5,7 @@ href="https://www.goclimbing.co.uk/wp-content/uploads/2017/08/climbing-introduct
 src="https://www.goclimbing.co.uk/wp-content/uploads/2017/08/climbing-introduction-get-started-1000x500.jpg" style="width:70%; margin-left:20%"> 
 </a>
 <p>
- <em> Sarita Aditya Verma Nov 2018 <e/m>
+ <em> Sarita Aditya Verma Nov 2018 </em>
 <h2>Colours </h2>
 Is it just a hue
   <br>
@@ -23,12 +23,12 @@ I love the colour too
 <br>
 Yes it has to be teal and aqua blue
 <br>
-
+style="colour#00cc00;">
 Yellow is so bright and right
 <br>
 Inspired by the sunlight
 <br>
-
+</span>
 Red speaks of passion and rage
 <br>
 Sure, I am no sage
@@ -39,8 +39,8 @@ Colours bright, dark or light
 In every hue, have a place of their own
 <br>
 Got to love them all
-
-
+<br>
+<hr>
 <p>
  <a href="https://galenagenova.github.io/SML5202-galena/">Home page </a>
   <p>
