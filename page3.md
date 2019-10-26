@@ -19,7 +19,7 @@ The sea and the lake too
 Is imbued by the sky’s blue
 <br>
 <span
-style="color: #d6d600;">
+style="color: #63d2d2;">
 I love the colour too
 <br>
 Yes it has to be teal and aqua blue
@@ -32,7 +32,7 @@ Inspired by the sunlight
 <br>
 </span>
 <span
-style="color: #d6d600;">
+style="color: #d61212;">
 Red speaks of passion and rage
 <br>
 Sure, I am no sage
