@@ -24,11 +24,10 @@ I love the colour too
 Yes it has to be teal and aqua blue
 <br>
 <span
-style="colour#d6d600;"> Yellow is so bright and right
+style="colour#d6d600;"> Yellow </span> is so bright and right
 <br>
 Inspired by the sunlight
 <br>
-</span>
 Red speaks of passion and rage
 <br>
 Sure, I am no sage
