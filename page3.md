@@ -8,7 +8,7 @@ src="https://www.goclimbing.co.uk/wp-content/uploads/2017/08/climbing-introducti
  <em> Sarita Aditya Verma Nov 2018 </em>
 <h2>
  <span
-style="color: #555555;"Colours
+style="color: #555555;"> Colours
        </span>
 </h2>
 Is it just a hue
