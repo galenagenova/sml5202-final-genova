@@ -32,7 +32,7 @@ Inspired by the sunlight
 <br>
 </span>
 <span
-<style="color: #d6d600;">
+style="color: #d6d600;">
 Red speaks of passion and rage
 <br>
 Sure, I am no sage
