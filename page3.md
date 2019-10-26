@@ -24,7 +24,7 @@ I love the colour too
 Yes it has to be teal and aqua blue
 <br>
 <span
-style="colour#d6d600;"> Yellow </span> is so bright and right
+style="color#d6d600;"> Yellow </span> is so bright and right
 <br>
 Inspired by the sunlight
 <br>
