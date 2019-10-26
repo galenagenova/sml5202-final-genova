@@ -18,19 +18,25 @@ The sea and the lake too
 <br>
 Is imbued by the sky’s blue
 <br>
-
+<span
+style="color: #d6d600;">
 I love the colour too
 <br>
 Yes it has to be teal and aqua blue
+</span>
 <br>
 <span
-style="color: #d6d600;"> Yellow </span> is so bright and right
+style="color: #d6d600;"> Yellow is so bright and right
 <br>
 Inspired by the sunlight
 <br>
+</span>
+<span
+<style="color: #d6d600;">
 Red speaks of passion and rage
 <br>
 Sure, I am no sage
+</span>
 <br>
 
 Colours bright, dark or light
