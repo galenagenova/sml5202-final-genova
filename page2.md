@@ -1,7 +1,7 @@
 <h1> HTML Part 2 Homework </h1>
 15<sup>th</sup> October 2019
 <hr>
-<a href="https://images.classic-collection.co.uk/content/DataObjects/ProductAttributeGroup/Image/image_13_v15.jpg" title="view full size">
+<a href="https://images.classic-collection.co.uk/content/DataObjects/ProductAttributeGroup/Image/image_13_v15.jpg" title="View Full Size">
 <img
 src="https://images.classic-collection.co.uk/content/DataObjects/ProductAttributeGroup/Image/image_13_v15.jpg">
 </a>
