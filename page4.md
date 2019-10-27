@@ -14,8 +14,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 <hr>
 <style>
 
-* {
-  box-sizing: border-box;
+* {box-sizing: border-box;
 }
 
 /* Create two equal columns that floats next to each other */
