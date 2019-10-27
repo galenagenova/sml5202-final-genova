@@ -13,7 +13,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 
 <hr>
 <style>
-* {
+{
   box-sizing: border-box;
 }
 
