@@ -57,4 +57,4 @@ Got to love them all
 <p>
  <a href="https://galenagenova.github.io/SML5202-galena/">Home page </a>
   <p>
-  Homework: <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3 </a>,<a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week 5. 
+  Homework: <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3</a>, <a href="https://galenagenova.github.io/SML5202-galena/page4.html">Week 5. 
