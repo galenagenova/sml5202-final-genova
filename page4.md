@@ -11,10 +11,11 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 <br>
 </p>
 
-<hr>
+
 <style>
 
-* {box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
 /* Create two equal columns that floats next to each other */
@@ -46,6 +47,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
     width: 100%;
   }
 }
+
 
 </style>
 
