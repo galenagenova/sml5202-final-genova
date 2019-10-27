@@ -1,4 +1,5 @@
 <h1> 3<sup>rd</sup> Homework </h1>
+<p>
 <a href= "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pinus_densiflora_Kumgangsan.jpg" title="View Full Image">
 <img class="imgLeft"
 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Pinus_densiflora_Kumgangsan.jpg">
@@ -8,16 +9,7 @@ The modern English name "pine" derives from Latin pinus, which some have traced 
 <hr>
 Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</p>
 
 <hr>
 
