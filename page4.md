@@ -17,4 +17,4 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 
  <a href="https://galenagenova.github.io/SML5202-galena/">Home page </a>
   <p>
-  Homework: <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3 </a>,<a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week 4. 
+  Homework: <a href="https://galenagenova.github.io/SML5202-galena/page2.html">Week3</a>, <a href="https://galenagenova.github.io/SML5202-galena/page3.html">Week 4. 
