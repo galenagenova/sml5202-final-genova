@@ -14,7 +14,7 @@ Source: <a href="https://en.wikipedia.org/wiki/Pine">Wikipedia. </a>
 
 <style>
 
-* {
+{
   box-sizing: border-box;
 }
 
