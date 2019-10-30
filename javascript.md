@@ -17,7 +17,7 @@ fetch(endpoint)
 return response.json();
 })
 .then(function(data){
-let id = Math.floor(Math.random() * 5);
+let id = Math.floor(Math.random() * 7);
 let idiom = (data.idioms[id].idiom);
 let meaning = (data.idioms[id].meaning);
 let example = (data.idioms[id].example);
