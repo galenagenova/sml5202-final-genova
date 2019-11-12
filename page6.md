@@ -5,7 +5,7 @@
   
 <h2> 'Random' short sentences with <em>JavaScript </em> </h2>
 
-<button onlick="makeSentence()"Click me</button>
+<button onclick="makeSentence()"Click me</button>
 
 <p id="demo"></p>
 
