@@ -4,6 +4,7 @@
 <body>
   
 <h2> 'Random' short sentences with <em>JavaScript </em> </h2>
+<button type="button" class="new-quote button">Click me</button>
 
 <button onclick="makeSentence()">Click me</button>
 
@@ -23,7 +24,7 @@
   verb = person.verbs[Math.floor(Math.radom() * person.verbs.length)];
   adverb = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
   
-  document.getElementById("demo").innerHTML = name + " " + verb + " " + adverb;
+  document.getElementById("demo").innerHTML = name + " " + verb + " " + adverb + "<br>";
   }
   </script>
   
