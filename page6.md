@@ -5,7 +5,7 @@
   
 <h2> 'Random' short sentences with <em>JavaScript </em> </h2>
 
-<button onclick="makeSentence()"Click me</button>
+<button onclick="makeSentence()">Click me</button>
 
 <p id="demo"></p>
 
@@ -21,7 +21,14 @@
   verb = person.verbs[Math.floor(Math.radom() * person.verbs.length)];
   adverb = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
   
-  document.getElementById("demo").innerHTML = name + " " + verb + " " + adverb " ";
+  document.getElementById("demo").innerHTML = name + " " + verb + " " + adverb;
   }
   </script>
+  
+  
+  
+  </body>
+  </html>
+  
+  <h2> All names with random verbs and adverbs: </h2>
   
