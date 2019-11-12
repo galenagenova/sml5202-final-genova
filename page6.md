@@ -1,6 +1,11 @@
 <h1> Reading Week Material </h1>
+<!DOCTYPE html>
+<html>
+<body>
+  
 <h2> 'Random' short sentences with <em>JavaScript </em> </h2>
-<button onlick="makeSentence()"Click me<button>
+
+<button onlick="makeSentence()"Click me</button>
 
 <p id="demo"></p>
 
