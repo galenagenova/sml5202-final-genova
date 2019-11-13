@@ -1,5 +1,5 @@
 <h1> Reading Week Material </h1>
-<!DOCTYPE html>
+
 <html>
 <body>
   
@@ -34,7 +34,6 @@
   </html>
   
   
-  <!DOCTYPE html>
 <html>
 <body>
   
