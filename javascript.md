@@ -35,3 +35,8 @@ const newQuoteButton = document.querySelector('.new-quote');
 newQuoteButton.addEventListener('click', getQuote);
 
 </script>
+
+<br>
+<hr>
+For this practice we used this 
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default">page</a>
