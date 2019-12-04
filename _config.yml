@@ -2,10 +2,9 @@ theme: jekyll-theme-cayman
 title: Galena's website 
 description: learning to write HTML 
 github:
+  page1: page1.html
   page2: page2.html
   page3: page3.html
   page4: page4.html
-  page5: javascript.html
-  page6: page6.html
-  page7: exercises.html
-  page8: page8.html
+  page5: page5.html
+ 
