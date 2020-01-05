@@ -26,7 +26,7 @@ href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMa
 <img style="width:90%; border:4px solid green; margin-left:5%"
      src="https://assets.vogue.com/photos/5aaaa12c7b28220bee116fb0/master/pass/21-russia-fall-2018-rtw-day-5.jpg" style="width:70%; margin-left:20%"> 
 </a>
-<p> We shall start with few details about the Russian colloqual language. It is widely spoken by everyone each day and its construction is based on the concept of short conversation, quck chat using updates steet words and cultural refferences. Some may also call it the lang="ru"> мать language. It can also be used in taking notes, texting, debating, everyday conversation and litarure which uses the same style. 
+<p> We shall start with few details about the Russian colloqual language. It is widely spoken by everyone each day and its construction is based on the concept of short conversation, quck chat using updates steet words and cultural refferences. Some may also call it the lang="ru"> мать language. It can also be used in taking notes, texting, debating, everyday conversation and litarure which uses the same style. In Russian linguistics, slang is seen as a non-standard informal language subsystem used by younger generations, that is people from 12 to 30 years old — a slang of schoolchildren, students, non-formal youth groups: punks, hippies, drug addicts. Because of elimination of censorship, the Russian standard language readily absorbs slang words and phrases, the main sources being the criminal slang, the slang of drug addicts and borrowings from the English language.
 </p>
 <hr>
 <br> 
