@@ -21,3 +21,7 @@
 
  <br> 
   <h1 lang="ru"> Спасибо! </h1>
+
+<a href="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg" title="View Full Size">
+<img
+src="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg">
