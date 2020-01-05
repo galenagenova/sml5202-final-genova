@@ -54,3 +54,15 @@ src="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg">
 }
 
 </style>
+
+<div class="row">
+  <div class="column">
+    <h2>Column 1</h2>
+    <p>The modern English name "pine" derives from Latin pinus, which some have traced to the Indo-European base *pīt- ‘resin’ (source of English pituitary). Before the 19th century, pines were often referred to as firs (from Old Norse fura, by way of Middle English firre). In some European languages, Germanic cognates of the Old Norse name are still in use for pines—in Danish fyr, in Norwegian fura/fure/furu, Swedish fura/furu, Dutch vuren, and German Föhre—but in modern English, fir is now restricted to fir (Abies) and Douglas fir (Pseudotsuga).</p>
+  </div>
+  <div class="column">
+    <h2>Column 2</h2>
+    <p> <img src="https://urnabios.com/wp-content/uploads/2014/06/milan-vuckovic-46126.jpg"></p>
+  </div>
+</div>
+<hr>
