@@ -18,6 +18,13 @@
     <tr> <td> Хорошо: </td> <td> хор, оч хор </td> <td> Good </td> </tr>
     <tr> <td> Целую: </td> <td> чмок, кисс </td> <td> Kisses </td> </tr> 
     <tr> <td> Я считаю: </td> <td> я щетаю </td> <td> I consider </td> </tr> 
+ 
+ <hr>
+ <a href="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b3365e222.jpg" title="View Full Size">
+<img
+src="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b3365e222.jpg">
+</a>
+ <hr>
     
   </table>
   <br> 
