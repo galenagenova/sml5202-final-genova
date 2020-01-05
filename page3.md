@@ -1,6 +1,6 @@
 <h1> App Language (texting and social media dictionary) </h1>
- 
- <br>
+ <p>
+<br>
   <table>
     <tr> <th> Будем: </th> <th> бум </th> <td> We will be </td> </tr>
     <tr> <td> Вообще: </td> <td> ваще </td> <td> Not at all </td> </tr>
@@ -18,6 +18,9 @@
     <tr> <td> Хорошо: </td> <td> хор, оч хор </td> <td> Good </td> </tr>
     <tr> <td> Целую: </td> <td> чмок, кисс </td> <td> Kisses </td> </tr> 
     <tr> <td> Я считаю: </td> <td> я щетаю </td> <td> I consider </td> </tr> 
+  </table>
+  <br> 
+  </p>
  
  <hr>
  <a href="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b3365e222.jpg" title="View Full Size">
@@ -26,5 +29,4 @@ src="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b336
 </a>
  <hr>
     
-  </table>
-  <br> 
+ 
