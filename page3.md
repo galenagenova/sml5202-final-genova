@@ -40,7 +40,7 @@ src="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b336
   
 <script>
  
-const endpoint = 'https://galenagenova.github.io/SML5202-galena/datasets/idioms.json';
+const endpoint = 'https://github.com/galenagenova/sml5202-final-genova/blob/master/datasets/idioms.json';
 
 function getQuote() {
 fetch(endpoint)
