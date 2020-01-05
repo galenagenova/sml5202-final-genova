@@ -28,12 +28,14 @@ href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMa
 </a>
 <hr>
 <br> 
-
+<p> We shall start with few details about the Russian colloqual language. It is widely spoken by everyone each day and its construction is based on the concept of short conversation, quck chat using updates steet words and cultural refferences. Some may also call it the lang="ru"> мать language. It can also be used in taking notes, texting, debating, everyday conversation and litarure which uses the same style. 
+</p>
 <a
 href="https://media.gettyimages.com/photos/sergei-kiriyenko-first-deputy-chief-of-staff-of-the-russian-office-picture-id951092228?s=612x612" title="View Full Size">
 <img style="width:90%; border:4px solid green; margin-left:5%"
 src="https://media.gettyimages.com/photos/sergei-kiriyenko-first-deputy-chief-of-staff-of-the-russian-office-picture-id951092228?s=612x612" style="width:70%; margin-left:20%"> 
 </a>
+
 <hr>
 <br> 
  <a
