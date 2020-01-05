@@ -8,6 +8,8 @@ href="https://www.thesubath.com/asset/Organisation/21577/logo1.jpg?thumbnail_wid
 <img style="width:90%; border:4px solid green; margin-left:5%"
      src="https://www.thesubath.com/asset/Organisation/21577/logo1.jpg?thumbnail_width=255&thumbnail_height=255&resize_type=ResizeFitAll" style="width:70%; margin-left:20%"> 
 </a>
+<p> The Russian language is widely spoken and this affects the language itself. The various types of style that it holds may be quite different from each other and represent the richneess in grammar and vocabullary. Because of the high number of citizens that speak Russian, the language differs depending on the region it is spoken in, similar examples might be seen in English, Italian, Indian etc. 
+</p>
 
 <a
 href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMapRu.png/600px-RussianLanguageMapRu.png" title="View Full Size">
@@ -15,10 +17,15 @@ href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMa
      src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMapRu.png/600px-RussianLanguageMapRu.png" style="width:70%; margin-left:20%"> 
 </a>
 
+<p> Here we are going to focus on the variations in terms of the style of the langauge, more precisely in the steet and everyday Russian, also known as <em>colloqual</em> Russian.  
+     
+</p>
+
 <a 
 href="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" title="View Full Size">
 <img style="width:90%; border:4px solid green; margin-left:5%"
      src="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" style="width:70%; margin-left:20%"> 
+      <h1 lang="ru"> Публицистический  Официально-деловой  Научный+Научный  Разговорный  </h1>
 </a>
 <hr>
 <a
