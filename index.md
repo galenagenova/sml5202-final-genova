@@ -3,6 +3,12 @@
 <h2> About the website: </h2>
 <p> This is a project for my Computers and Languages module, taking place during my 3<sup>rd</sup> year in <a href="https://www.qmul.ac.uk">Queen Mary University</a>. </p> 
 <br>
+<a 
+href="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" title="View Full Size">
+<img style="width:90%; border:4px solid green; margin-left:5%"
+     src="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" style="width:70%; margin-left:20%"> 
+</a>
+<hr>
 <a
  href="https://assets.vogue.com/photos/5aaaa12c7b28220bee116fb0/master/pass/21-russia-fall-2018-rtw-day-5.jpg" title="View Full Size">
 <img style="width:90%; border:4px solid green; margin-left:5%"
