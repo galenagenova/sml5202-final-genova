@@ -54,10 +54,12 @@
 
 <div class="row">
   <div class="column">
+    <h1> Later on in the website </h1>
     
     <p>Watch both of the videos until the end in order to learn more about the Russian language. After that proceed to learning some new words and phrases <a href="https://galenagenova.github.io/sml5202-final-genova/page3.html">here</a> and gaing knowledge about the formation of some Russian slang words <a href="https://galenagenova.github.io/sml5202-final-genova/page4.html">here </a>.</p>
   </div>
   <div class="column">
+  <h2> . </h2>
     
     <p> <img src="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg"></p>
   </div>
