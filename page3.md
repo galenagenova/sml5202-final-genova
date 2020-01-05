@@ -32,7 +32,7 @@ src="https://cdni.rbth.com/rbthmedia/images/2019.10/original/5d9326fe15e9f90b336
  <h1>Common slang words and phrases</h1>
 
 
-<button type="button" class="new-quote button">Show sentance.</button>
+<button type="button" class="new-quote button">Show sentance</button>
  <dl id="quote"></dl>
 
 
