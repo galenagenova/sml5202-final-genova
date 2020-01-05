@@ -5,7 +5,7 @@
 <br>
 <a
 href="https://www.thesubath.com/asset/Organisation/21577/logo1.jpg?thumbnail_width=255&thumbnail_height=255&resize_type=ResizeFitAll" title="View Full Size">
-<img style="width:90%; border:4px solid green; margin-left:5%"
+<img style="width:90%; border:4px solid green; margin-left:50%"
      src="https://www.thesubath.com/asset/Organisation/21577/logo1.jpg?thumbnail_width=255&thumbnail_height=255&resize_type=ResizeFitAll" style="width:70%; margin-left:20%"> 
 </a>
 <p> The Russian language is widely spoken and this affects the language itself. The various types of style that it holds may be quite different from each other and represent the richneess in grammar and vocabullary. Because of the high number of citizens that speak Russian, the language differs depending on the region it is spoken in, similar examples might be seen in English, Italian, Indian etc. 
