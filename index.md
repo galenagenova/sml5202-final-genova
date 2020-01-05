@@ -5,5 +5,5 @@
   
   
 
-<p> Image Refference: <a href="https://www.gettyimages.com"</a> </p>
+<p> Image Refference: <a href="https://www.gettyimages.com">https://www.gettyimages.com</a> </p>
 
