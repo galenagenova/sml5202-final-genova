@@ -6,7 +6,6 @@
     <tr> <td> Вообще: </td> <td> ваще </td> <td> Not at all </td> </tr>
     <tr> <td> Естественно: </td> <td> ессно </td> <td> Naturally/Of course </td> </tr> 
     <tr> <td> Завтра: </td> <td> звтр </td> <td> tomorrow </td> </tr>
-  
     <tr> <th> Интересно: </th> <th> интрс </th> <td> Interesting </td> </tr>
     <tr> <td> Кто-нибудь: </td> <td>  кто-нить </td> <td> Whoever </td> </tr>
     <tr> <td> Ладно: </td> <td> лана, лан </td> <td> Sure </td> </tr> 
