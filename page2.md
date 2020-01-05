@@ -25,3 +25,32 @@
 <a href="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg" title="View Full Size">
 <img
 src="https://lh12.ru/wp-content/uploads/2019/07/basketico2019-38-1.jpg">
+  <style>
+
+{
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row {
+   border: 1px solid black;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+</style>
