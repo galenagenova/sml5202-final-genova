@@ -23,8 +23,8 @@ href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RussianLanguageMa
 
 <a 
 href="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" title="View Full Size">
-<img style="width:90%; border:4px solid green; margin-left:5%"
-     src="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" style="width:70%; margin-left:20%"> 
+<img style="width:50%; border:4px solid green; margin-left:5%"
+     src="https://cdn3.vectorstock.com/i/1000x1000/46/72/blue-bars-graph-icon-isometric-style-vector-28644672.jpg" style="width:50%; margin-left:20%"> 
       <h1 lang="ru"> Публицистический  Официально-деловой  Научный+Научный  Разговорный  </h1>
 </a>
 <hr>
