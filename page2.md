@@ -17,7 +17,7 @@
   Now we shall see some examples of colloqual phrases and their meaning. 
   </h2>
   
- <a href="https://www.youtube.com/watch?v=x9kMgjaRPm0"> russian Phrases-YouTube link </a>
+ <a href="https://www.youtube.com/watch?v=x9kMgjaRPm0"> Russian Phrases-YouTube link </a>
 
  <br> 
   <h1 lang="ru"> Спасибо! </h1>
