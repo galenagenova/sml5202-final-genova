@@ -8,8 +8,7 @@
   This video will show you more detailed information about the different styles in the russian language.
  </h2>
 
-<iframe
-  src="https://www.youtube.com/watch?v=Be26xKtw9tY" allowfullscreen="true"> </iframe>
+<a href="https://www.youtube.com/watch?v=Be26xKtw9tY"> Russian Styles-YouTube link </a>
  
   <br>
   <hr>
@@ -18,5 +17,4 @@
   Now we shall see some examples of colloqual phrases and their meaning. 
   </h2>
   
- <iframe
- src="https://www.youtube.com/watch?v=x9kMgjaRPm0" allowfullscreen="true"> </iframe>
+ <a href=="https://www.youtube.com/watch?v=x9kMgjaRPm0"> russian Phrases-YouTube link </a>
