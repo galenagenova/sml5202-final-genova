@@ -6,7 +6,7 @@
   
 <script>
  
-const endpoint = 'https://galenagenova.github.io/SML5202-galena/datasets/idioms.json';
+const endpoint = 'https://github.com/galenagenova/sml5202-final-genova/blob/master/datasets/idioms.json';
 
 function getQuote() {
 fetch(endpoint)
